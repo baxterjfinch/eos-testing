@@ -1,0 +1,16 @@
+{
+  "name": "eos-testing",
+  "version": "1.0.0",
+  "description": "",
+  "main": "account_creation.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "demux": "^4.0.0",
+    "demux-eos": "^4.0.1",
+    "massive": "^6.2.0"
+  }
+}
